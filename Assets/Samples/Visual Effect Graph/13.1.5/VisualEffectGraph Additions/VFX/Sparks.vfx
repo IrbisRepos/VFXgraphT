@@ -228,8 +228,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: -827
     y: -335
-    width: 1939
-    height: 2303
+    width: 1971
+    height: 2283
 --- !u!114 &114350483966674976
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -6722,7 +6722,7 @@ MonoBehaviour:
     linkedSlots:
     - outputSlot: {fileID: 8926484042661614993}
       inputSlot: {fileID: 8926484042661614956}
-    position: {x: 518, y: 346}
+    position: {x: 503, y: 335}
     expandedSlots: []
     expanded: 0
 --- !u!114 &8926484042661614993
